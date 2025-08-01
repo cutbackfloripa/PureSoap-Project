@@ -15,7 +15,7 @@ header{
     align-content: center;
     overflow: auto;
     flex-direction: row;
-    background: radial-gradient(circle farthest-side at right center, #ffff 0%, #800080  100%); 
+    background: radial-gradient(circle farthest-side at right center, #ffff 0%, #6A0DAD     100%); 
 }
 
 .headerLogo{
